@@ -10,8 +10,8 @@
 
 <h3>My Stats 💯</h3>
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=9OmP&show_icons=true&theme=radical)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothar&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9OmP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
