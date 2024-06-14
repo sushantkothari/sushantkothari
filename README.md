@@ -10,7 +10,7 @@
 
 <h3>My Stats 💯</h3>
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothar&show_icons=true&theme=radical)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothari&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
