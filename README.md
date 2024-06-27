@@ -46,6 +46,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
+
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -65,6 +67,6 @@
 <a href="https://discord.gg/yellow_claw619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yellow_claw619" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
+
 
 
