@@ -6,7 +6,7 @@
 - 👨‍💻 Programming Languages: Python, HTML, CSS & Javascript. 
 - 💻 Frontend: HTML, CSS & Javascript.
 - 🦄 Frameworks: Spring boot & Bootstrap.
-- 📫 How to reach me: ompatil16022002@gmail.com
+- 📫 How to reach me: sk619kothari@gmail.com
 
 <h3>My Stats 💯</h3>
 
