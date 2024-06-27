@@ -30,15 +30,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
   
-- 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
+- **💬 Ask me about:** **Data Science, Machine Learning and Deep Learning**
 
-- 📫 How to reach me **sk619kothari@gmail.com**
+- **📫 How to reach me:** **sk619kothari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
+- **📄 Know about my experiences:** [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
 
-- ⚡ Fun fact **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
+- **⚡ Fun fact:** **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
 
-- ⚡ Technical Fun fact **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
+- **⚡Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
