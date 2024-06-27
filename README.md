@@ -2,12 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
 
+- 🌱 I’m currently learning **Data Analytics and Data Engineering**
 
-- 👨‍💻 Programming Languages: Python, HTML, CSS & Javascript. 
-- 💻 Frontend: HTML, CSS & Javascript.
-- 🦄 Frameworks: Spring boot & Bootstrap.
-- 📫 How to reach me: sk619kothari@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
+  
+- **💬 Ask me about:** **Data Science, Machine Learning and Deep Learning**
 
+- **📫 How to reach me:** **sk619kothari@gmail.com**
+
+- **📄 Know about my experiences:** [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
+
+- **⚡ Fun fact:** **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
+
+- **⚡Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
 <h3>My Stats 💯</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
 
@@ -46,19 +53,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari" alt="sushantkothari" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Analytics and Data Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
-  
-- **💬 Ask me about:** **Data Science, Machine Learning and Deep Learning**
-
-- **📫 How to reach me:** **sk619kothari@gmail.com**
-
-- **📄 Know about my experiences:** [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
-
-- **⚡ Fun fact:** **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
-
-- **⚡Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
