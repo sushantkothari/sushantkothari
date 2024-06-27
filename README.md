@@ -27,16 +27,13 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.nltk.org/_static/nltk_logo.png" alt="nltk" width="40" height="40"/> </a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="scipy" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost" width="40" height="40"/> </a>
-  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://lightgbm.readthedocs.io/en/latest/_static/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
-  <a href="http://simplecv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sightmachine/SimpleCV/develop/doc/simplecv_lg.png" alt="simplecv" width="40" height="40"/> </a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" alt="bokeh" width="40" height="40"/> </a>
+  <a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/logos/logotype.svg" alt="bokeh" width="40" height="40"/> </a>
 </p>
 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothari&show_icons=true&theme=radical)
