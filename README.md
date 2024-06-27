@@ -42,17 +42,20 @@
   
 </p>
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothari&show_icons=true&theme=radical)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=radical" alt="sushantkothari" /></a> </p>
+
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothari&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
 
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=radical" alt="sushantkothari" /></a> </p>
 
 
   
