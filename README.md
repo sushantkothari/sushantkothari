@@ -32,7 +32,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Bokeh_favicon_black.svg" alt="bokeh" width="40" height="40"/> </a>
+  <a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bokeh/bokeh/main/bokeh/server/static/img/logo.svg" alt="bokeh" width="40" height="40"/> </a>
   
 </p>
 
