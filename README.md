@@ -48,8 +48,10 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
-  
 </p>
+
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="csharp" style="vertical-align:top; margin:4px">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=radical" alt="sushantkothari" /></a> </p>
