@@ -2,7 +2,7 @@
 <br/>
  
 <p align="center" width="100%">
- <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="100%" max-width="90px" min-height="50" style="display: block; margin: 0 auto" src="Sushant Kothari.gif" height="175px" width="100%"/></a>
+ <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="100%" max-width="50px" min-height="50" style="display: block; margin: 0 auto" src="Sushant Kothari.gif" height="175px" width="100%"/></a>
 </p>
 
 <br/>
