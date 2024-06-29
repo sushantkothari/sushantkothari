@@ -2,7 +2,7 @@
 <br/>
  
 <p align="center" width="100%">
- <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="100%" max-width="10px" max-height="100px" src=EDITED.gif"/></a>
+ <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="100%" max-width="10px" max-height="100px" src='EDITED.gif"/></a>
 </p>
 
 <br/>
