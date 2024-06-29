@@ -1,3 +1,15 @@
+
+<br/>
+ 
+<p align="center" width="100%">
+ <a align="center" href="https://www.linkedin.com/in/iamhk12" target="_blank"><img width="100%" min-width="250px" height="auto" style="display: block; margin: 0 auto" src="https://github.com/iamhk12/Projects/blob/main/WebProjects/Assets/goodHeader.gif" height="175px" width="100%"/></a>
+</p>
+
+
+<h3 align="center">Hey there, I'm <a target="_blank" href="https://www.linkedin.com/in/iamhk12">Himanshu</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+
+<br/>
+
 <h3> Hello, I am Sushant Kothari and I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
