@@ -50,15 +50,14 @@
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="csharp" style="vertical-align:top; margin:4px">
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=radical" alt="sushantkothari" /></a> </p>
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantkothari&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://stats.hyochan.dev/en/stats/sushantkothari"><img src="https://stats.hyochan.dev/api/github-stats?login=sushantkothari" width="600" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
 
