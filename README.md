@@ -58,14 +58,13 @@
 <h2>Most Used Languages</h2>
 <img height="137px" max-width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
+<br/>
 
 <a href="https://stats.hyochan.dev/en/stats/sushantkothari"><img src="https://stats.hyochan.dev/api/github-stats?login=sushantkothari" width="600" /></a>
 
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
-
-<br/>
 
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
 
