@@ -76,7 +76,7 @@
 </p>
 
 
-
+</br>
 <h2>Thank you for visiting my GitHub profile. Dive into my projects, star ⭐ your favorites, and let's collaborate on building the future of technology together!</h2>
 
 
