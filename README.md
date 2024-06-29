@@ -7,7 +7,7 @@
 
 <br/>
 
-<h3> Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
+<h3><img src="hello.gif" width="28"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
 
