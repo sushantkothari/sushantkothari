@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Data Analytics and Data Engineering**
+- 🌱 I’m currently learning **Data Analytics and Big Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
   
