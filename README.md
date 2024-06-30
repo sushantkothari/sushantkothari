@@ -63,11 +63,12 @@
 
 <br/>
 
-<a href="https://stats.hyochan.dev/en/stats/sushantkothari"><img src="https://stats.hyochan.dev/api/github-stats?login=sushantkothari" width="600" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
+<a href="https://stats.hyochan.dev/en/stats/sushantkothari"><img src="https://stats.hyochan.dev/api/github-stats?login=sushantkothari" width="600" /></a>
+
 
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
 
