@@ -53,8 +53,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=radical" alt="sushantkothari" /></a> </p>
-
 <h2>Sushant Kothari's Github Stats</h2>
 
 <a href="#"><img height="137px" max-width="400px" src="https://github-readme-stats.vercel.app/api?username=sushantkothari&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
@@ -66,9 +64,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
 
 <br/>
-
-<a href="https://stats.hyochan.dev/en/stats/sushantkothari"><img src="https://stats.hyochan.dev/api/github-stats?login=sushantkothari" width="600" /></a>
-
 
 ![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
 
