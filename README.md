@@ -1,9 +1,13 @@
+<!-- ████████████████████ ANIMATED HEADER WAVE ████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:73daca&height=120&section=header&animation=fadeIn" />
+
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
     <img width="95%" src="EDITED.gif" alt="Sushant Kothari Banner" />
   </a>
 </p>
 
+<!-- ████████████████████ SOCIAL BADGES ████████████████████ -->
 <div align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7F6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Website" />
@@ -27,6 +31,7 @@
 
 <br/>
 
+<!-- ████████████████████ INTRO ████████████████████ -->
 <h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
@@ -49,18 +54,36 @@
 
 - **⚡ Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
 
+<!-- ████████████████████ WAVE DIVIDER ████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=2&section=header" />
+
 ---
 
+<!-- ████████████████████ TECH STACK ████████████████████ -->
 <h3 align="left">🛠️ Tech Stack & Frameworks</h3>
 
-<p align="left"> 
+<p align="left">
+  <!-- Row 1: Core ML/DL Frameworks — all verified on skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,pandas,numpy,scipy,matplotlib,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css,plotly&perline=11&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css&theme=dark" alt="Core Tech Stack" />
   </a>
+</p>
+
+<!-- Row 2: Data Science libs — using official badges since skillicons doesn't support them -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/LightGBM-00B050?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM" />
 </p>
 
 ---
 
+<!-- ████████████████████ GITHUB STATS ████████████████████ -->
 <h2 align="center">📊 GitHub Stats & Overview</h2>
 
 <p align="center">
@@ -72,7 +95,8 @@
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
 </p>
 
-<h2 align="center">Past 6 Months Contribution Graph</h2>
+<!-- ████████████████████ CONTRIBUTION GRAPH ████████████████████ -->
+<h2 align="center">📈 Past 6 Months Contribution Graph</h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night&custom_title=Past%206%20Months%20Contribution%20Graph" alt="Past 6 Months Contribution Graph" />
@@ -80,16 +104,19 @@
 
 <br/>
 
+<!-- ████████████████████ STREAK ████████████████████ -->
 <p align="center"><img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="sushantkothari" /></p>
 
 <br/>
 
+<!-- ████████████████████ SNAKE ████████████████████ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sushantkothari/sushantkothari/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </p>
 
 ---
 
+<!-- ████████████████████ PROGRAMMER JOKE ████████████████████ -->
 <h2 align="center">😂 Dev Joke of the Day</h2>
 
 <p align="center">
@@ -98,6 +125,7 @@
 
 ---
 
+<!-- ████████████████████ CONNECT ████████████████████ -->
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ssk619" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -111,8 +139,12 @@
 </br>
 <h2>Thank you for visiting my GitHub profile. Dive into my projects, star ⭐ your favorites, and let's collaborate on building the future of technology together!</h2>
 
+<!-- ████████████████████ FOOTER WAVE ████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:73daca,50:7aa2f7,100:1a1b26&height=120&section=footer&animation=fadeIn" />
+
 ---
 
+<!-- ████████████████████ PHILOSOPHICAL QUOTE (LAST) ████████████████████ -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Dev Quote" />
 </p>
