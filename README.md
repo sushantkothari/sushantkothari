@@ -46,20 +46,6 @@
 - **⚡ Fun fact:** "Data Wizard" casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮
 - **⚡ Technical Fun fact:** My favorite dance? The Neural Network Shuffle — two steps forward, one back, then gradient descent! 💃📉
 
-<!-- ████████████████████ WAVE DIVIDER ████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,100:1e2030&height=30&section=header" width="100%"/>
-
----
-
-<!-- ████████████████████ DAILY AI FACT ████████████████████ -->
-<h3 align="center">🤖 Daily AI/ML Fact</h3>
-
-<!--START_AIFACT-->
-> 🤖 **Today's AI/ML Fact:** The Transformer architecture, introduced in 'Attention is All You Need' (2017), now powers virtually all modern LLMs.
-<!--END_AIFACT-->
-
-<!-- ████████████████████ WAVE DIVIDER ████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b26,100:1e2030&height=30&section=header" width="100%"/>
 
 ---
 
@@ -157,20 +143,6 @@
 📄 *Fetching today's paper... check back soon after the daily workflow runs!*
 <!--END_ARXIV-->
 
-</p>
-
----
-
-<!-- ████████████████████ SPOTIFY / WAKATIME PLACEHOLDER ████████████████████ -->
-<h3 align="center">🎵 Spotify & ⏱️ WakaTime</h3>
-<p align="center">
-  <a href="https://sushant-kothari.vercel.app/">
-    <img src="https://img.shields.io/badge/🎵%20Spotify-Connect%20your%20account%20to%20enable%20Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify" />
-  </a>
-  <br/>
-  <a href="https://wakatime.com/">
-    <img src="https://img.shields.io/badge/⏱️%20WakaTime-Add%20WAKATIME_API_KEY%20secret%20to%20enable%20coding%20stats-73daca?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=1a1b26" alt="WakaTime" />
-  </a>
 </p>
 
 ---
