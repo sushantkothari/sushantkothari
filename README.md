@@ -52,9 +52,18 @@
 ---
 
 <h3 align="left">🛠️ Tech Stack & Frameworks</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-PyTorch_%7C_TensorFlow_%7C_Keras_%7C_OpenCV_%7C_Scikit--Learn-00F7F6?style=flat-square&logo=pytorch&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Data_Engineering-Python_%7C_Pandas_%7C_NumPy_%7C_MySQL_%7C_Hadoop-7AA2F7?style=flat-square&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MLOps_%26_Cloud-AWS_%7C_Azure_%7C_Streamlit_%7C_Flask_%7C_Git-73DACA?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,pandas,numpy,scipy,matplotlib,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css,plotly&perline=11&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,pandas,numpy,scipy,matplotlib,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css,plotly&perline=11&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -63,7 +72,7 @@
 <h2 align="center">📊 GitHub Stats & Overview</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=7aa2f7&labelColor=1a1b26&style=for-the-badge" alt="sushantkothari profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=10B981&labelColor=1a1b26&style=for-the-badge" alt="sushantkothari profile views" />
 </p>
 
 <p align="center">
