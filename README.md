@@ -29,7 +29,7 @@
 
 <h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F6&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 
@@ -49,32 +49,13 @@
 
 - **⚡ Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
 
+---
 
-<h3 align="left">🛠️ Languages and Frameworks:</h3>
+<h3 align="left">🛠️ Tech Stack & Frameworks</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="scipy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,pandas,numpy,scipy,matplotlib,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css,plotly&perline=11&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -82,7 +63,7 @@
 <h2 align="center">📊 GitHub Stats & Overview</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=00F7F6&style=for-the-badge" alt="sushantkothari profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=7aa2f7&labelColor=1a1b26&style=for-the-badge" alt="sushantkothari profile views" />
 </p>
 
 <p align="center">
@@ -93,7 +74,7 @@
 <h2 align="center">Past 6 Months Contribution Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=react-dark&custom_title=Past%206%20Months%20Contribution%20Graph" alt="Past 6 Months Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night&custom_title=Past%206%20Months%20Contribution%20Graph" alt="Past 6 Months Contribution Graph" />
 </p>
 
 <br/>
@@ -114,15 +95,14 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ssk619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssk619" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sushant-kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sushant-kothari" height="30" width="40" /></a>
-<a href="https://kaggle.com/sushantkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sushantkothari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sk619kothari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yellow_claw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yellow_claw" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk619kothari" height="30" width="40" /></a>
-<a href="https://discord.gg/yellow_claw619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yellow_claw619" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ssk619" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sk619kothari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://kaggle.com/sushantkothari" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.leetcode.com/yellow_claw" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://discord.gg/yellow_claw619" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 </br>
