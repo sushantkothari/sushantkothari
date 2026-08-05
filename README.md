@@ -1,30 +1,68 @@
-<br/>
-
-<p align="center" width="100%">
- <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="50%" max-width="50px" max-height="50px" src="EDITED.gif"/></a>
+<p align="center">
+  <a href="https://sushant-kothari.vercel.app/" target="_blank">
+    <img width="100%" src="EDITED.gif" alt="Sushant Kothari Banner" />
+  </a>
 </p>
+
+<div align="center">
+  <a href="https://sushant-kothari.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F7F6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Website" />
+  </a>
+  <a href="https://linkedin.com/in/ssk619" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://kaggle.com/sushantkothari" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.leetcode.com/yellow_claw" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:sk619kothari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 <br/>
 
 <h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F6&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 
-- **📄 Know about my experiences:** [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
+- **🌐 Personal Portfolio Website:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
 
-- 🌱 I’m currently learning **Data Analytics, Big Data, and LLMs**
+- **📄 Know about my experiences:** [View My Resume / CV](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
 
-- **💬 Ask me about:** **Data Science, Machine Learning, Deep Learning, CV & NLP**
+- 🎓 **Education:** **M.Tech in Data Science** (CGPA: 8.55) & **B.Tech in Computer Science DS** (CGPA: 9.26)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
+- 🌱 **Currently Learning:** Advanced Data Analytics, Big Data Engineering, GenAI & LLMs
+
+- 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning, CV & NLP
+
+- 👨‍💻 All of my projects are available at [github.com/sushantkothari](https://github.com/sushantkothari)
 
 - **⚡ Fun fact:** **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
 
-- **⚡Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
+- **⚡ Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 Featured AI & ML Projects
+
+| Project Title | Core Tech Stack | Impact & Highlights |
+| :--- | :--- | :--- |
+| 🐾 **Wildlife Detection System** | `Custom CNN`, `Python`, `OpenCV` | Real-time inference system with **90% precision** & **<100ms latency**, achieving **95%+ classification accuracy**. |
+| 🛡️ **Deepfake Detection Model** | `MesoNet`, `PyTorch`, `Deep Learning` | Achieved **94.5% F1 score** detecting AI-generated fake imagery across 10K+ validations, reducing false positives by 25%. |
+| 🏥 **Medical AI Assistant** | `Streamlit`, `Scikit-learn`, `Python` | End-to-end disease prediction platform achieving **92%+ accuracy** with live interactive UI and pickle model persistence. |
+| 🎭 **Emotion Recognition System** | `LSTM`, `SVM`, `NLP`, `Flask` | Developed NLP-driven emotion classifier achieving **96% accuracy** deployed via Flask API. |
+
+---
+
+<h3 align="left">🛠️ Languages and Frameworks:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
@@ -50,6 +88,8 @@
   <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
 </p>
+
+---
 
 <h3>My Stats 💯</h3>
 
@@ -78,7 +118,14 @@
   <img src="https://raw.githubusercontent.com/sushantkothari/sushantkothari/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </p>
 
-  
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ssk619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssk619" height="30" width="40" /></a>
