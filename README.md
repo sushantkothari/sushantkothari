@@ -92,30 +92,41 @@
 <h2 align="center">📊 GitHub Stats & Overview</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=7aa2f7&labelColor=1a1b26&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=10B981&labelColor=1a1b26&style=for-the-badge" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🕐%20Timezone-IST%20(UTC%2B5%3A30)-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Timezone IST" />
+  <img src="https://img.shields.io/badge/🕐%20Timezone-IST%20(UTC%2B5%3A30)-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Timezone IST" />
   &nbsp;
   <img src="https://img.shields.io/badge/🌍%20Based%20in-India-73daca?style=for-the-badge&labelColor=1a1b26" alt="Location" />
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=percentile&border_color=7aa2f7&title_color=7dcfff&icon_color=73daca" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes&border_color=7aa2f7&title_color=7dcfff" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
 </p>
+
+<!-- ████████████████████ GITHUB TROPHIES ████████████████████ -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/sushantkothari">
+    <img src="https://github-trophies.vercel.app/?username=sushantkothari&theme=tokyonight&no-bg=false&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
 
 <!-- ████████████████████ CONTRIBUTION GRAPH ████████████████████ -->
 <h2 align="center">📈 Past 6 Months Contribution Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night&custom_title=Past%206%20Months%20Contribution%20Graph&border=7aa2f7&line=7aa2f7&point=73daca" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night&custom_title=Past%206%20Months%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <br/>
 
 <!-- ████████████████████ STREAK ████████████████████ -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight&border=7aa2f7&stroke=7aa2f7&ring=73daca&fire=ff9e64" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -143,9 +154,19 @@
 <p align="center">
 
 <!--START_ARXIV-->
-📄 *Fetching today's paper... check back soon after the daily workflow runs!*
+📄 **[Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001)**
+<br/>
+<sub>👥 Mohsen Hariri, Weicong Chen, Nahal Shahini et al.</sub>
 <!--END_ARXIV-->
 
+</p>
+
+<!-- ████████████████████ SPOTIFY ████████████████████ -->
+<h3 align="center">🎵 Currently Listening on Spotify</h3>
+<p align="center">
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listening_to_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify" />
+  </a>
 </p>
 
 ---
