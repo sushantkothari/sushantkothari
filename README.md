@@ -2,19 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=120&section=header&animation=fadeIn" />
 
 <!-- ████████████████████ RECRUITER SPOTLIGHT / OPEN TO WORK ████████████████████ -->
-<div align="center">
-  <a href="mailto:sk619kothari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=1a1b26&logo=github&logoColor=white" height="38" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ssk619" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_TARGET_ROLES-DATA_SCIENTIST_%7C_ML_ENGINEER-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=python&logoColor=white" height="38" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_RESUME-VIEW_CV-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=google-drive&logoColor=white" height="38" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=10B981&center=true&vCenter=true&width=750&lines=%F0%9F%9F%A2+STATUS%3A+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE+%26+ML;%F0%9F%9A%80+AVAILABLE+FOR+FULL-TIME+ROLES+%26+IMMEDIATE+JOINING;%E2%9C%A8+LETS+BUILD+IMPACTFUL+AI+SOLUTIONS+TOGETHER!" alt="Open to Work Status" />
+</p>
 
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
