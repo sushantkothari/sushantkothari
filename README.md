@@ -90,8 +90,10 @@
 
 ---
 
+<h2 align="center">😂 Dev Joke of the Day</h2>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Dev Quote" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%237DCFFF&aColor=%2373DACA&borderColor=%231a1b26&bgColor=%231a1b26" alt="Jokes Card" />
 </p>
 
 ---
@@ -108,3 +110,9 @@
 
 </br>
 <h2>Thank you for visiting my GitHub profile. Dive into my projects, star ⭐ your favorites, and let's collaborate on building the future of technology together!</h2>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Dev Quote" />
+</p>
