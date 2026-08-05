@@ -139,8 +139,8 @@
 
 ---
 
-<!-- ████████████████████ LATEST ARXIV ML PAPER ████████████████████ -->
-<h2 align="center">🔥 Latest ML/AI Paper from ArXiv</h2>
+<!-- ████████████████████ LATEST ARXIV AI/ML PAPER ████████████████████ -->
+<h2 align="center">🔥 Latest AI/ML Paper from ArXiv</h2>
 
 <p align="center">
 
@@ -152,15 +152,11 @@
 
 </p>
 
-<!-- ████████████████████ SPOTIFY SHOWCASE (OPTION B) ████████████████████ -->
-<h3 align="center">🎵 Coding & Deep Learning Vibe on Spotify</h3>
+<!-- ████████████████████ SPOTIFY ████████████████████ -->
+<h3 align="center">🎵 Currently Listening on Spotify</h3>
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Deep_Learning_%26_Lofi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=121212" alt="Spotify Vibe" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Status-🎧_Coding_Mode_Active-7aa2f7?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify Status" />
+    <img src="https://img.shields.io/badge/Spotify-Listening_to_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify" />
   </a>
 </p>
 
