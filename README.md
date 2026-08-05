@@ -79,24 +79,15 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📊 GitHub Stats & Overview</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="sushantkothari" />
+  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=00F7F6&style=for-the-badge" alt="sushantkothari profile views" />
 </p>
 
-<h3>My Stats 💯</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
-
-<h2 align="center">Sushant Kothari's GitHub Stats</h2>
-
 <p align="center">
-  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/yellow_claw"><img src="https://leetcard.jacoblin.cool/yellow_claw?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="185"/></a>
 </p>
 
 <h2 align="center">Past 6 Months Contribution Graph</h2>
