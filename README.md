@@ -142,23 +142,12 @@
 <!-- ████████████████████ LATEST ARXIV AI/ML PAPER ████████████████████ -->
 <h2 align="center">🔥 Latest AI/ML Paper from ArXiv</h2>
 
-<p align="center">
-
+<div align="center">
 <!--START_ARXIV-->
-📄 **[Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001)**
-<br/>
-<sub>👥 Mohsen Hariri, Weicong Chen, Nahal Shahini et al.</sub>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.04001" target="_blank">Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility</a></h3>
+<p align="center"><b>👥 Authors:</b> Mohsen Hariri, Weicong Chen, Nahal Shahini et al.</p>
 <!--END_ARXIV-->
-
-</p>
-
-<!-- ████████████████████ SPOTIFY ████████████████████ -->
-<h3 align="center">🎵 Currently Listening on Spotify</h3>
-<p align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listening_to_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify" />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -170,6 +159,7 @@
   <a href="https://kaggle.com/sushantkothari" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.leetcode.com/yellow_claw" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://open.spotify.com" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <br/>

@@ -1,4 +1,4 @@
-name: 🔥 Latest ML/AI ArXiv Paper
+name: 🔥 Latest AI/ML ArXiv Paper
 
 on:
   schedule:
@@ -36,9 +36,9 @@ jobs:
               link    = entry.find("atom:link[@rel='alternate']", ns).attrib["href"]
               authors_str = ", ".join(authors) + (" et al." if len(entry.findall("atom:author", ns)) > 2 else "")
 
-              block = f"📄 **[{title}]({link})**\n> 👥 *{authors_str}*"
+              block = f'<h3 align="center">📄 <a href="{link}" target="_blank">{title}</a></h3>\n<p align="center"><b>👥 Authors:</b> {authors_str}</p>'
           except Exception as e:
-              block = "📄 *Could not fetch today's paper — will retry tomorrow.*"
+              block = "<p align=\"center\">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>"
               print(f"Error: {e}")
 
           with open("README.md", "r", encoding="utf-8") as f:
@@ -59,5 +59,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "ci: update latest ML/AI ArXiv paper"
+          git diff --staged --quiet || git commit -m "ci: update latest AI/ML ArXiv paper"
           git push
