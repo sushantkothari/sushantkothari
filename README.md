@@ -1,110 +1,94 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F6,100:0e75b6&height=200&section=header&text=Sushant%20Kothari&fontSize=42&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20AI%20Specialist&descFontSize=18&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
-</div>
-
 <br/>
 
-<!-- Social & Contact Badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/ssk619" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://kaggle.com/sushantkothari" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.leetcode.com/yellow_claw" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:sk619kothari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-<!-- About & Animated Typing -->
-### 👋 Hi there, I'm Sushant Kothari!
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F6&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-#### 📌 About Me:
-- 📄 **Resume / Experience:** [View My CV](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
-- 🎯 **Current Focus:** Advanced Data Analytics, Big Data Engineering & Large Language Models (LLMs)
-- 💬 **Ask Me About:** Data Science, Machine Learning, Deep Learning & Neural Network Architectures
-- 🧙‍♂️ **Fun Fact:** When I'm not training AI models or crunching data, I cast spells with Python to conjure actionable insights and predict the future! 🔮
-- 💃 **Technical Fun Fact:** My favorite dance? *The Neural Network Shuffle* — two steps forward, one step back, then gradient descent! 📉
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,mysql,postgres,java,git,github,docker,vscode,html,css&perline=8" alt="Tech Stack Icons" />
-  </a>
+<p align="center" width="100%">
+ <a align="center" href="https://www.linkedin.com/in/ssk619" target="_blank"><img width="50%" max-width="50px" max-height="50px" src="EDITED.gif"/></a>
 </p>
 
----
+<br/>
 
-### 🚀 Featured AI & Machine Learning Projects
+<h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| 🤖 **[Toxicity Classifier](https://github.com/sushantkothari/sushantkothari)** | `Python`, `DeBERTa-v3`, `PyTorch`, `Transformers` | Fine-tuned DeBERTa-v3 model for toxic comment identification with mixed-precision GPU acceleration and custom loss functions. |
-| 📊 **[ML & Data Science Portfolio](https://github.com/sushantkothari/sushantkothari)** | `Pandas`, `NumPy`, `Scikit-Learn`, `Seaborn` | End-to-end exploratory data analysis pipelines, feature engineering, and predictive modeling benchmarks. |
-| 👁️ **[Computer Vision Solutions](https://github.com/sushantkothari/sushantkothari)** | `OpenCV`, `TensorFlow`, `Keras` | Deep learning image processing, object detection, and visual pattern recognition models. |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F6&random=false&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Engineer;Artificial+Intelligence+Engineer;Data+Analyst;Python+Developer;Computer+Vision+Specialist;)](https://git.io/typing-svg)
 
----
+- **📫 How to reach me:** **sk619kothari@gmail.com**
 
-<h3 align="center">📊 GitHub Statistics & Analytics</h3>
+- **📄 Know about my experiences:** [https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+- 🌱 I’m currently learning **Data Analytics, Big Data, and LLMs**
+
+- **💬 Ask me about:** **Data Science, Machine Learning, Deep Learning, CV & NLP**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sushantkothari/sushantkothari](https://github.com/sushantkothari/sushantkothari)
+
+- **⚡ Fun fact:** **When I'm not busy training AI/ML models or crunching data, I like to think of myself as a "Data Wizard," casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮**
+
+- **⚡Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="scipy" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
 </p>
+
+<h3>My Stats 💯</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
+
+<h2 align="center">Sushant Kothari's GitHub Stats</h2>
 
 <p align="center">
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night" width="100%" alt="Contribution Graph" />
-</p>
+<h2 align="center">Past 6 Months Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=react-dark&custom_title=Past%206%20Months%20Contribution%20Graph" alt="Past 6 Months Contribution Graph" />
 </p>
+
+<br/>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="sushantkothari" /></p>
+
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sushantkothari/sushantkothari/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </p>
 
----
-
-### 🌐 Connect With Me
-
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ssk619" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/sushant-kothari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
-  <a href="https://kaggle.com/sushantkothari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/sk619kothari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/yellow_claw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-  <a href="https://discord.gg/yellow_claw619" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ssk619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssk619" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sushant-kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sushant-kothari" height="30" width="40" /></a>
+<a href="https://kaggle.com/sushantkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sushantkothari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sk619kothari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yellow_claw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yellow_claw" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk619kothari" height="30" width="40" /></a>
+<a href="https://discord.gg/yellow_claw619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yellow_claw619" height="30" width="40" /></a>
 </p>
 
-<br/>
-
-<div align="center">
-  <sub>Thank you for visiting my GitHub profile. Dive into my projects, star ⭐ your favorites, and let's collaborate on building the future of technology together!</sub>
-</div>
+</br>
+<h2>Thank you for visiting my GitHub profile. Dive into my projects, star ⭐ your favorites, and let's collaborate on building the future of technology together!</h2>
