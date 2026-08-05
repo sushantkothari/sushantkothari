@@ -55,27 +55,57 @@
 
 ---
 
-<!-- ████████████████████ TECH STACK ████████████████████ -->
-<h3 align="left">🛠️ Tech Stack & Frameworks</h3>
+<!-- ████████████████████ TECHNICAL SKILLS & SPECIALIZATIONS ████████████████████ -->
+<h2 align="center">🛠️ Technical Skills & Core Competencies</h2>
 
-<p align="left">
-  <!-- Row 1: Core frameworks — verified working on skillicons.dev -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,streamlit,flask,aws,azure,mysql,hadoop,java,git,html,css&theme=dark" alt="Core Tech Stack" />
-  </a>
-</p>
-
-<!-- Row 2: Data Science libs — official shields.io badges (never break, always render) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-00B050?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Machine Learning & Deep Learning</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/LightGBM-00B050?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Science & Analytics</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ Computer Vision, NLP & GenAI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/GenAI_%26_LLMs-7aa2f7?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-bb9af7?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud, Databases & Deployment</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -140,7 +170,7 @@
 ---
 
 <!-- ████████████████████ LATEST ARXIV AI/ML PAPER ████████████████████ -->
-<h2 align="center">🔥 Latest AI/ML Paper from ArXiv</h2>
+<h2 align="center">🔥 Latest AI/ML Research Paper from ArXiv</h2>
 
 <div align="center">
 <!--START_ARXIV-->
@@ -159,7 +189,6 @@
   <a href="https://kaggle.com/sushantkothari" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.leetcode.com/yellow_claw" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://open.spotify.com" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <br/>
