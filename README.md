@@ -49,23 +49,25 @@
 </p>
 
 
-<h3>My Stats 💯</h3>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-<h2>Sushant Kothari's Github Stats</h2>
+<p align="center">
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
+</p>
 
-<a href="#"><img height="137px" max-width="400px" src="https://github-readme-stats.vercel.app/api?username=sushantkothari&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-<h2>Most Used Languages</h2>
-<img height="137px" max-width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkothari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushantkothari/sushantkothari/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantkothari&theme=radical" alt="sushantkothari" /></p>
-
-<br/>
-
-![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
 
   
 <h3 align="left">Connect with me:</h3>
