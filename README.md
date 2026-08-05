@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
-    <img width="100%" src="EDITED.gif" alt="Sushant Kothari Banner" />
+    <img width="95%" src="EDITED.gif" alt="Sushant Kothari Banner" />
   </a>
 </p>
 
@@ -49,18 +49,6 @@
 
 - **⚡ Technical Fun fact:** **My favorite dance? The Neural Network Shuffle - two steps forward, one step back, then gradient descent! 💃📉**
 
----
-
-### 🚀 Featured AI & ML Projects
-
-| Project Title | Core Tech Stack | Impact & Highlights |
-| :--- | :--- | :--- |
-| 🐾 **Wildlife Detection System** | `Custom CNN`, `Python`, `OpenCV` | Real-time inference system with **90% precision** & **<100ms latency**, achieving **95%+ classification accuracy**. |
-| 🛡️ **Deepfake Detection Model** | `MesoNet`, `PyTorch`, `Deep Learning` | Achieved **94.5% F1 score** detecting AI-generated fake imagery across 10K+ validations, reducing false positives by 25%. |
-| 🏥 **Medical AI Assistant** | `Streamlit`, `Scikit-learn`, `Python` | End-to-end disease prediction platform achieving **92%+ accuracy** with live interactive UI and pickle model persistence. |
-| 🎭 **Emotion Recognition System** | `LSTM`, `SVM`, `NLP`, `Flask` | Developed NLP-driven emotion classifier achieving **96% accuracy** deployed via Flask API. |
-
----
 
 <h3 align="left">🛠️ Languages and Frameworks:</h3>
 <p align="left"> 
@@ -91,6 +79,11 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushantkothari&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="sushantkothari" />
+</p>
+
 <h3>My Stats 💯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkothari&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkothari" /> </p>
@@ -100,6 +93,10 @@
 <p align="center">
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=sushantkothari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sushantkothari&layout=compact&theme=tokyonight&hide=html&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/yellow_claw"><img src="https://leetcard.jacoblin.cool/yellow_claw?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="185"/></a>
 </p>
 
 <h2 align="center">Past 6 Months Contribution Graph</h2>
@@ -121,7 +118,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Dev Quote" />
 </p>
 
 ---
