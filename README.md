@@ -1,6 +1,13 @@
 <!-- ████████████████████ ANIMATED HEADER WAVE ████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:73daca&height=120&section=header&animation=fadeIn" />
 
+<!-- ████████████████████ OPEN TO WORK BANNER ████████████████████ -->
+<p align="center">
+  <a href="https://linkedin.com/in/ssk619" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=50&text=%F0%9F%9F%A2%20Open%20to%20Work%20%E2%80%94%20Data%20Science%20%7C%20ML%20%7C%20AI%20Roles&fontColor=FFFFFF&fontSize=22&fontAlign=50&fontAlignY=55&animation=blinking" width="95%" alt="Open to Work" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
     <img width="95%" src="EDITED.gif" alt="Sushant Kothari Banner" />
@@ -39,7 +46,7 @@
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 - **🌐 Portfolio:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
 - **📄 Resume/CV:** [View Here](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
-- 🎓 **Education:** M.Tech in Data Science (CGPA: 8.55) & B.Tech in CS DS (CGPA: 9.26)
+- 🎓 **Education:** M.Tech in Data Science (CGPA: 9.16) & B.Tech in CS DS (CGPA: 9.26)
 - 🌱 **Currently Learning:** Advanced Data Analytics, Big Data Engineering, GenAI & LLMs
 - 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning, CV & NLP
 - 👨‍💻 All projects at [github.com/sushantkothari](https://github.com/sushantkothari)
@@ -105,12 +112,6 @@
 
 <br/>
 
-<!-- ████████████████████ CONTRIBUTION HEATMAP ████████████████████ -->
-<h2 align="center">📅 Contribution Heatmap</h2>
-<p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/sushantkothari" alt="Contribution Heatmap" width="100%" />
-</p>
-
 <!-- ████████████████████ WAVE DIVIDER ████████████████████ -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e2030,100:1a1b26&height=30&section=header" width="100%"/>
 
@@ -130,6 +131,17 @@
 <h2 align="center">🏅 GitHub Achievements</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sushantkothari/sushantkothari/main/metrics/achievements.svg" alt="GitHub Achievements" width="60%" />
+</p>
+
+<!-- ████████████████████ GITHUB SKYLINE ████████████████████ -->
+<h2 align="center">🌆 GitHub Skyline — My Contributions in 3D</h2>
+<p align="center">
+  <a href="https://skyline.github.com/sushantkothari/2024" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=60&text=%F0%9F%8C%86%20View%20My%203D%20GitHub%20Skyline%202024%20%E2%86%97&fontColor=FFFFFF&fontSize=20&fontAlign=50&fontAlignY=60" width="70%" alt="GitHub Skyline 2024" />
+  </a>
+</p>
+<p align="center">
+  <sub>✨ Click to see my entire year of contributions rendered as a 3D printable city skyline!</sub>
 </p>
 
 ---
@@ -155,7 +167,6 @@
   <a href="https://kaggle.com/sushantkothari" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.leetcode.com/yellow_claw" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://discord.gg/yellow_claw619" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <br/>
