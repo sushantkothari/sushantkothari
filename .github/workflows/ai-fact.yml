@@ -1,0 +1,65 @@
+name: 🤖 AI Fun Fact Generator
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-fact:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick random AI/ML fact and update README
+        run: |
+          python3 - <<'EOF'
+          import random, re
+
+          FACTS = [
+            "The term 'Artificial Intelligence' was coined by John McCarthy in 1956 at the Dartmouth Conference.",
+            "GPT-4 has an estimated 1.8 trillion parameters, making it one of the largest language models ever built.",
+            "The first neural network was created by Marvin Minsky and Dean Edmonds in 1951 — it simulated a rat in a maze.",
+            "AlphaFold solved the 50-year-old protein-folding problem, predicting structures for 200+ million proteins.",
+            "A single training run of GPT-3 is estimated to consume ~1,287 MWh of energy — enough to power a house for 120 years.",
+            "Gradient Descent was first described by Augustin-Louis Cauchy in 1847 — over 150 years before deep learning took off.",
+            "The ImageNet dataset that sparked the deep learning revolution contains over 14 million labeled images.",
+            "BERT, released by Google in 2018, reads text bidirectionally — transforming NLP benchmarks overnight.",
+            "Convolutional Neural Networks were inspired by the structure of the cat's visual cortex, discovered in 1959.",
+            "DeepMind's AlphaGo defeated world Go champion Lee Sedol 4-1 in 2016, a milestone thought to be 10 years away.",
+            "The Transformer architecture, introduced in 'Attention is All You Need' (2017), now powers virtually all modern LLMs.",
+            "Random Forests, introduced by Leo Breiman in 2001, remain one of the most reliable ML algorithms in production.",
+            "PyTorch was released by Facebook AI Research in 2016; today it powers the majority of research papers globally.",
+            "Human brain has ~86 billion neurons; the largest AI models have ~1.8 trillion parameters — still structurally simpler.",
+            "Data Augmentation can boost model accuracy by 10–30% on image tasks without collecting a single new data point.",
+            "The XGBoost algorithm won over 60% of Kaggle competitions in its first two years after release.",
+            "Scikit-learn, first released in 2007, is downloaded over 30 million times per month on PyPI.",
+            "YOLO (You Only Look Once) real-time object detection processes 45+ frames per second on a single GPU.",
+            "The Bias-Variance Tradeoff is the central challenge of supervised ML: more complexity → less bias, more variance.",
+            "Principal Component Analysis (PCA) was first developed by Karl Pearson in 1901 — over a century before big data.",
+          ]
+
+          fact = random.choice(FACTS)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r'(<!--START_AIFACT-->).*?(<!--END_AIFACT-->)'
+          replacement = f'<!--START_AIFACT-->\n> 🤖 **Today\'s AI/ML Fact:** {fact}\n<!--END_AIFACT-->'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Updated fact: {fact}")
+          EOF
+
+      - name: Commit updated README
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "ci: update daily AI/ML fun fact"
+          git push

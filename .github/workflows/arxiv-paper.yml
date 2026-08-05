@@ -1,0 +1,63 @@
+name: 🔥 Latest ML/AI ArXiv Paper
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # daily at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-arxiv:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest ArXiv ML paper and update README
+        run: |
+          python3 - <<'EOF'
+          import urllib.request, urllib.parse, xml.etree.ElementTree as ET, re
+
+          # Query ArXiv for the latest paper in cs.LG (Machine Learning)
+          query = "cat:cs.LG"
+          encoded = urllib.parse.quote(query)
+          url = f"http://export.arxiv.org/api/query?search_query={encoded}&sortBy=submittedDate&sortOrder=descending&max_results=1"
+
+          try:
+              with urllib.request.urlopen(url, timeout=15) as resp:
+                  data = resp.read().decode("utf-8")
+
+              ns = {"atom": "http://www.w3.org/2005/Atom"}
+              root = ET.fromstring(data)
+              entry = root.find("atom:entry", ns)
+
+              title   = entry.find("atom:title", ns).text.strip().replace("\n", " ")
+              authors = [a.find("atom:name", ns).text for a in entry.findall("atom:author", ns)][:2]
+              link    = entry.find("atom:link[@rel='alternate']", ns).attrib["href"]
+              authors_str = ", ".join(authors) + (" et al." if len(entry.findall("atom:author", ns)) > 2 else "")
+
+              block = f"📄 **[{title}]({link})**\n> 👥 *{authors_str}*"
+          except Exception as e:
+              block = "📄 *Could not fetch today's paper — will retry tomorrow.*"
+              print(f"Error: {e}")
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r'(<!--START_ARXIV-->).*?(<!--END_ARXIV-->)'
+          replacement = f'<!--START_ARXIV-->\n{block}\n<!--END_ARXIV-->'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Updated ArXiv paper: {block}")
+          EOF
+
+      - name: Commit updated README
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "ci: update latest ML/AI ArXiv paper"
+          git push
