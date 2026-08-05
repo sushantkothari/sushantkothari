@@ -1,12 +1,18 @@
 <!-- ████████████████████ ANIMATED HEADER WAVE ████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=120&section=header&animation=fadeIn" />
 
-<!-- ████████████████████ OPEN TO WORK / HIRE ME ████████████████████ -->
-<p align="center">
-  <a href="mailto:sk619kothari@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2000&color=10B981&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Available+for+Full-Time+Opportunities;%F0%9F%9A%80+Seeking+Data+Science+%26+ML+Roles;%F0%9F%92%BC+Let's+build+something+impactful+together!" alt="Open to Work" />
+<!-- ████████████████████ RECRUITER STATUS DASHBOARD ████████████████████ -->
+<div align="center">
+  <a href="mailto:sk619kothari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work-10B981?style=for-the-badge&labelColor=1a1b26&logo=github&logoColor=white" alt="Status" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/ssk619" target="_blank">
+    <img src="https://img.shields.io/badge/Target_Roles-Data_Scientist_|_ML_Engineer-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=python&logoColor=white" alt="Target Roles" />
+  </a>
+  <a href="https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Availability-Full--Time_|_Immediate-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=google-drive&logoColor=white" alt="Availability" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
