@@ -62,65 +62,65 @@
 
 ### Programming & Core Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-1a1b26?style=flat-square&labelColor=1a1b26&color=7aa2f7" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b26&color=7aa2f7" height="34" />
 </p>
 
 ### LLM, Generative AI & NLP
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28" />
-  <img src="https://img.shields.io/badge/RAG_(Retrieval--Augmented_Gen)-7aa2f7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-bb9af7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Semantic_Search-73daca?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="34" />
+  <img src="https://img.shields.io/badge/RAG_(Retrieval--Augmented_Gen)-7aa2f7?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-bb9af7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Semantic_Search-73daca?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" height="34" />
 </p>
 
 ### Machine Learning & Deep Learning Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Ultralytics-0055FF?style=flat-square&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Albumentations-2E3440?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Ultralytics-0055FF?style=for-the-badge&logo=python&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Albumentations-2E3440?style=for-the-badge&logo=opencv&logoColor=white" height="34" />
 </p>
 
 ### Computer Vision & Multimodal AI
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Object_Detection-7aa2f7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Image_Classification-bb9af7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Multimodal_AI-73daca?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Recommendation_Systems-ff9e64?style=flat-square&labelColor=1a1b26" height="28" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Object_Detection-7aa2f7?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Image_Classification-bb9af7?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-73daca?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Recommendation_Systems-ff9e64?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1b26" height="34" />
 </p>
 
 ### Data Science, Analytics & Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-7aa2f7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Model_Fine--Tuning-bb9af7?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-73daca?style=flat-square&labelColor=1a1b26" height="28" />
-  <img src="https://img.shields.io/badge/Time_Series_Forecasting-ff9e64?style=flat-square&labelColor=1a1b26" height="28" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-7aa2f7?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Model_Fine--Tuning-bb9af7?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-73daca?style=for-the-badge&logo=optuna&logoColor=white&labelColor=1a1b26" height="34" />
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-ff9e64?style=for-the-badge&logo=meta&logoColor=white&labelColor=1a1b26" height="34" />
 </p>
 
 ### Cloud, AI Services & MLOps Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Azure_Doc_Intelligence-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Azure_Cognitive_Search-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Microsoft_Translator-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Azure_Doc_Intelligence-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Azure_Cognitive_Search-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Microsoft_Translator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="34" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
 </p>
 
 ---
@@ -224,6 +224,6 @@
 ---
 
 <!-- ████████████████████ PHILOSOPHICAL QUOTE — ABSOLUTE LAST ████████████████████ -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Dev Quote" />
-</p>
+<!--START_QUOTE-->
+<blockquote align="center"><i>"First, solve the problem. Then, write the code."</i><br/>— <b>John Johnson</b></blockquote>
+<!--END_QUOTE-->
