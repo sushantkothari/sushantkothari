@@ -3,7 +3,7 @@
 
 <!-- ████████████████████ RECRUITER SPOTLIGHT / OPEN TO WORK ████████████████████ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=10B981&center=true&vCenter=true&width=750&lines=%F0%9F%9F%A2+STATUS%3A+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE+%26+ML;%F0%9F%9A%80+AVAILABLE+FOR+FULL-TIME+ROLES+%26+IMMEDIATE+JOINING;%E2%9C%A8+LETS+BUILD+IMPACTFUL+AI+SOLUTIONS+TOGETHER!" alt="Open to Work Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=10B981&center=true&vCenter=true&width=780&lines=%F0%9F%9F%A2+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE%2C+AI+%26+ML+ROLES;%F0%9F%9A%80+SEEKING+FULL-TIME+DATA+SCIENTIST+%26+ML+ENGINEER+POSITIONS;%E2%9C%A8+AVAILABLE+FOR+IMMEDIATE+JOINING+%E2%80%94+LETS+CONNECT!" alt="Open to Work Status" />
 </p>
 
 <p align="center">
@@ -39,14 +39,15 @@
 <!-- ████████████████████ INTRO ████████████████████ -->
 <h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Deep+Learning+%26+NLP+Specialist;AI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Deep+Learning+%26+NLP+Specialist;GenAI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 - **🌐 Portfolio:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
 - **📄 Resume/CV:** [View Here](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
+- 💼 **Career Status:** **Open to Data Science, Machine Learning & AI Roles**
 - 🎓 **Education:** M.Tech in Data Science (CGPA: 9.16) & B.Tech in CS DS (CGPA: 9.26)
 - 🌱 **Currently Learning:** Advanced Data Analytics, Big Data Engineering, GenAI & LLMs
-- 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning, CV & NLP
+- 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning, GenAI, CV & NLP
 - 👨‍💻 All projects at [github.com/sushantkothari](https://github.com/sushantkothari)
 - **⚡ Fun fact:** "Data Wizard" casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮
 - **⚡ Technical Fun fact:** My favorite dance? The Neural Network Shuffle — two steps forward, one back, then gradient descent! 💃📉
@@ -151,11 +152,15 @@
 
 </p>
 
-<!-- ████████████████████ SPOTIFY ████████████████████ -->
-<h3 align="center">🎵 Currently Listening on Spotify</h3>
+<!-- ████████████████████ SPOTIFY SHOWCASE (OPTION B) ████████████████████ -->
+<h3 align="center">🎵 Coding & Deep Learning Vibe on Spotify</h3>
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listening_to_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Deep_Learning_%26_Lofi_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=121212" alt="Spotify Vibe" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Status-🎧_Coding_Mode_Active-7aa2f7?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b26" alt="Spotify Status" />
   </a>
 </p>
 
