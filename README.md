@@ -187,10 +187,25 @@
   <img src="metrics/isometric.svg" alt="3D Isometric Contribution City" width="100%" />
 </p>
 
+<!-- ████████████████████ MY RESEARCH PUBLICATIONS ████████████████████ -->
+<h2 align="center">📚 My Research Publications</h2>
+
+<h3>1. Air Quality Index Prediction Using Hybrid LSTM–GRU and Residual BiLSTM Models</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Published-10B981?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;<b>Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS) — Vol. 7, Issue 2, 2026</i>
+</p>
+
+<h3>2. Hybrid Wildlife Classification and Detection Using EfficientNet-B4, Custom CNN and YOLOv10</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Accepted-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;<b>Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS), 2026</i>
+</p>
+
 ---
 
 <!-- ████████████████████ LATEST ARXIV AI/ML PAPER ████████████████████ -->
-<h2 align="center">🔥 Latest AI/ML Research Paper from ArXiv</h2>
+<h2 align="center">🔥 Daily AI/ML Research Paper from ArXiv</h2>
 
 <div align="center">
 <!--START_ARXIV-->
