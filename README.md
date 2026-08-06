@@ -246,8 +246,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.04001" target="_blank">Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility</a></h3>
-<p align="center"><b>👥 Authors:</b> Mohsen Hariri, Weicong Chen, Nahal Shahini et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.05141v1" target="_blank">OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling</a></h3>
+<p align="center"><b>👥 Authors:</b> Indraneil Paul, Falko Helm et al.</p>
 <!--END_ARXIV-->
 </div>
 
