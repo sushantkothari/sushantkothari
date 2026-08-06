@@ -14,7 +14,7 @@
 
 <!-- ████████████████████ SOCIAL BADGES ████████████████████ -->
 <div align="center">
-  <a href="https://developer.github.com/program/" target="_blank">
+  <a href="https://github.com/developers/program" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program Member" />
   </a>
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
