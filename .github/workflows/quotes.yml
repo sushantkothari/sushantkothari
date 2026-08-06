@@ -2,7 +2,7 @@ name: 💬 Dynamic Dev Quote Generator
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */3 * * *"   # every 3 hours
   workflow_dispatch:
 
 jobs:
@@ -13,31 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Pick random dev quote and update README
+      - name: Bust cache and update Vercel quote SVG in README
         run: |
           python3 - <<'EOF'
-          import random, re
+          import time, re
 
-          QUOTES = [
-            ("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra"),
-            ("Make it work, make it right, make it fast.", "Kent Beck"),
-            ("First, solve the problem. Then, write the code.", "John Johnson"),
-            ("Code is like humor. When you have to explain it, it’s bad.", "Cory House"),
-            ("Clean code always looks like it was written by someone who cares.", "Robert C. Martin"),
-            ("Experience is the name everyone gives to their mistakes.", "Oscar Wilde"),
-            ("The best error message is the one that never shows up.", "Thomas Fuchs"),
-            ("Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "Martin Fowler"),
-            ("It’s not a bug – it’s an undocumented feature.", "Anonymous"),
-            ("Programming isn't about what you know; it's about what you can figure out.", "Chris Pine"),
-            ("Data is a precious thing and will last longer than the systems themselves.", "Tim Berners-Lee"),
-            ("Machine learning is the science of getting computers to act without being explicitly programmed.", "Andrew Ng"),
-            ("Artificial intelligence is the new electricity.", "Andrew Ng"),
-            ("Without data, you're just another person with an opinion.", "W. Edwards Deming")
-          ]
-
-          quote, author = random.choice(QUOTES)
-
-          block = f'<blockquote align="center"><i>"{quote}"</i><br/>— <b>{author}</b></blockquote>'
+          timestamp = int(time.time())
+          block = f'<p align="center">\n  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0&t={timestamp}" alt="Dev Quote" />\n</p>'
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
@@ -49,7 +31,7 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new_content)
 
-          print(f"Updated Quote: {quote} — {author}")
+          print(f"Busted quote cache with timestamp: {timestamp}")
           EOF
 
       - name: Commit updated README
@@ -57,5 +39,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "ci: update dynamic quote"
+          git diff --staged --quiet || git commit -m "ci: update dynamic quote cache buster"
           git push

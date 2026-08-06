@@ -3,7 +3,7 @@
 
 <!-- ████████████████████ RECRUITER SPOTLIGHT / OPEN TO WORK ████████████████████ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=10B981&center=true&vCenter=true&width=780&lines=%F0%9F%9F%A2+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE%2C+AI+%26+ML+ROLES;%F0%9F%9A%80+SEEKING+FULL-TIME+DATA+SCIENTIST+%26+ML+ENGINEER+POSITIONS;%E2%9C%A8+AVAILABLE+FOR+IMMEDIATE+JOINING+%E2%80%94+LETS+CONNECT!" alt="Open to Work Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=10B981&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%9F%A2+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE%2C+AI+%26+ML+ROLES;%F0%9F%9A%80+SEEKING+FULL-TIME+DATA+SCIENTIST+%26+ML+ENGINEER+POSITIONS;%E2%9C%A8+AVAILABLE+FOR+IMMEDIATE+JOINING+%E2%80%94+LETS+CONNECT!" alt="Open to Work Status" />
 </p>
 
 <p align="center">
@@ -37,9 +37,11 @@
 <br/>
 
 <!-- ████████████████████ INTRO ████████████████████ -->
-<h3><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h3>
+<h2><img src="hello.gif" width="62"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sushant Kothari and I am a</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Deep+Learning+%26+NLP+Specialist;GenAI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=750&height=50&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Deep+Learning+%26+NLP+Specialist;GenAI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
+
+<font size="4">
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 - **🌐 Portfolio:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
@@ -51,6 +53,8 @@
 - 👨‍💻 All projects at [github.com/sushantkothari](https://github.com/sushantkothari)
 - **⚡ Fun fact:** "Data Wizard" casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮
 - **⚡ Technical Fun fact:** My favorite dance? The Neural Network Shuffle — two steps forward, one back, then gradient descent! 💃📉
+
+</font>
 
 
 ---
@@ -225,5 +229,7 @@
 
 <!-- ████████████████████ PHILOSOPHICAL QUOTE — ABSOLUTE LAST ████████████████████ -->
 <!--START_QUOTE-->
-<blockquote align="center"><i>"First, solve the problem. Then, write the code."</i><br/>— <b>John Johnson</b></blockquote>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0&t=1700000000" alt="Dev Quote" />
+</p>
 <!--END_QUOTE-->
