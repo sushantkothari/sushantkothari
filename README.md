@@ -75,12 +75,10 @@
         <a href="https://www.irjms.com/wp-content/uploads/2026/04/Manuscript_IRJMS_09113_WS.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
         </a>
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Focus-Time_Series_%7C_BiLSTM-7aa2f7?style=for-the-badge&logo=python&logoColor=white" />
       </p>
       <p align="left">
-        <b>📖 Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS) — Vol. 7, Issue 2, 2026</i><br/>
-        <b>💡 Highlights:</b> Hybrid LSTM-GRU & Residual BiLSTM deep learning architecture engineered for high-precision AQI forecasting.
+        <h4>📖 Journal: <i>International Research Journal of Multidisciplinary Scope (IRJMS) — Vol. 7, Issue 2, 2026</i></h4>
+        <h4>💡 Highlights: <i>Hybrid LSTM-GRU & Residual BiLSTM deep learning architecture engineered for high-precision AQI forecasting.</i></h4>
       </p>
     </td>
   </tr>
@@ -102,12 +100,10 @@
         <a href="https://www.irjms.com/wp-content/uploads/2026/07/Manuscript_IRJMS_09519_WS.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
         </a>
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Focus-Computer_Vision_%7C_YOLOv10-bb9af7?style=for-the-badge&logo=opencv&logoColor=white" />
       </p>
       <p align="left">
-        <b>📖 Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS), 2026</i><br/>
-        <b>💡 Highlights:</b> Multi-model Computer Vision pipeline integrating EfficientNet-B4, Custom CNN backbone, and YOLOv10 for real-time species detection.
+        <h4>📖 Journal: <i>International Research Journal of Multidisciplinary Scope (IRJMS), 2026</i></h4>
+        <h4>💡 Highlights: <i>Multi-model Computer Vision pipeline integrating EfficientNet-B4, Custom CNN backbone, and YOLOv10 for real-time species detection.</i></h4>
       </p>
     </td>
   </tr>
