@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
-    <img width="95%" src="EDITED.gif" alt="Sushant Kothari Banner" />
+    <img width="82%" src="EDITED.gif" alt="Sushant Kothari Banner" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=7DCFFF&center=true&vCenter=true&random=false&width=750&height=50&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Deep+Learning+%26+NLP+Specialist;GenAI+%26+Computer+Vision+Developer;Data+Wizard+%26+Insights+Conjurer)](https://git.io/typing-svg)
 
-<font size="4">
+<h3>
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
 - **🌐 Portfolio:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
@@ -50,11 +50,11 @@
 - 🎓 **Education:** M.Tech in Data Science (CGPA: 9.16) & B.Tech in CS DS (CGPA: 9.26)
 - 🌱 **Currently Learning:** Advanced Data Analytics, Big Data Engineering, GenAI & LLMs
 - 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning, GenAI, CV & NLP
-- 👨‍💻 All projects at [github.com/sushantkothari](https://github.com/sushantkothari)
-- **⚡ Fun fact:** "Data Wizard" casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮
-- **⚡ Technical Fun fact:** My favorite dance? The Neural Network Shuffle — two steps forward, one back, then gradient descent! 💃📉
+- 👨‍💻 **All projects at:** [github.com/sushantkothari](https://github.com/sushantkothari)
+- ⚡ **Fun fact:** "Data Wizard" casting spells with Python to conjure insights and predict the future! 🧙‍♂🔮
+- ⚡ **Technical Fun fact:** My favorite dance? The Neural Network Shuffle — two steps forward, one back, then gradient descent! 💃📉
 
-</font>
+</h3>
 
 
 ---
