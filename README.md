@@ -61,27 +61,57 @@
 <!-- ████████████████████ MY RESEARCH PUBLICATIONS ████████████████████ -->
 <h2 align="center">📚 My Research Publications</h2>
 
-<h3>1. <a href="https://www.irjms.com/wp-content/uploads/2026/04/Manuscript_IRJMS_09113_WS.pdf" target="_blank">Air Quality Index Prediction Using Hybrid LSTM–GRU and Residual BiLSTM Models</a></h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Published-10B981?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <a href="https://www.irjms.com/wp-content/uploads/2026/04/Manuscript_IRJMS_09113_WS.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <br/>
-  <b>Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS) — Vol. 7, Issue 2, 2026</i>
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td style="background-color: #1a1b26; padding: 16px; border-radius: 8px;">
+      <h3 align="left">
+        <a href="https://www.irjms.com/wp-content/uploads/2026/04/Manuscript_IRJMS_09113_WS.pdf" target="_blank">
+          📄 Air Quality Index Prediction Using Hybrid LSTM–GRU and Residual BiLSTM Models
+        </a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Published-10B981?style=for-the-badge&logo=github&logoColor=white" />
+        &nbsp;&nbsp;
+        <a href="https://www.irjms.com/wp-content/uploads/2026/04/Manuscript_IRJMS_09113_WS.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Focus-Time_Series_%7C_BiLSTM-7aa2f7?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <p align="left">
+        <b>📖 Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS) — Vol. 7, Issue 2, 2026</i><br/>
+        <b>💡 Highlights:</b> Hybrid LSTM-GRU & Residual BiLSTM deep learning architecture engineered for high-precision AQI forecasting.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3>2. <a href="https://www.irjms.com/wp-content/uploads/2026/07/Manuscript_IRJMS_09519_WS.pdf" target="_blank">Hybrid Wildlife Classification and Detection Using EfficientNet-B4, Custom CNN and YOLOv10</a></h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Published-10B981?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <a href="https://www.irjms.com/wp-content/uploads/2026/07/Manuscript_IRJMS_09519_WS.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <br/>
-  <b>Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS), 2026</i>
-</p>
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td style="background-color: #1a1b26; padding: 16px; border-radius: 8px;">
+      <h3 align="left">
+        <a href="https://www.irjms.com/wp-content/uploads/2026/07/Manuscript_IRJMS_09519_WS.pdf" target="_blank">
+          📄 Hybrid Wildlife Classification and Detection Using EfficientNet-B4, Custom CNN and YOLOv10
+        </a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Published-10B981?style=for-the-badge&logo=github&logoColor=white" />
+        &nbsp;&nbsp;
+        <a href="https://www.irjms.com/wp-content/uploads/2026/07/Manuscript_IRJMS_09519_WS.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Read_PDF-IRJMS_Manuscript-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Focus-Computer_Vision_%7C_YOLOv10-bb9af7?style=for-the-badge&logo=opencv&logoColor=white" />
+      </p>
+      <p align="left">
+        <b>📖 Journal:</b> <i>International Research Journal of Multidisciplinary Scope (IRJMS), 2026</i><br/>
+        <b>💡 Highlights:</b> Multi-model Computer Vision pipeline integrating EfficientNet-B4, Custom CNN backbone, and YOLOv10 for real-time species detection.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
