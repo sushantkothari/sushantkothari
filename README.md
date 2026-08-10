@@ -246,8 +246,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.06377v1" target="_blank">Learning When to Trust via Selective Context Preference Optimization</a></h3>
-<p align="center"><b>👥 Authors:</b> Xian Sun, Wei Chow et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.07463v1" target="_blank">MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation</a></h3>
+<p align="center"><b>👥 Authors:</b> Youjun Zhao, Alex Warren et al.</p>
 <!--END_ARXIV-->
 </div>
 
