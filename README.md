@@ -246,8 +246,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.07463v1" target="_blank">MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation</a></h3>
-<p align="center"><b>👥 Authors:</b> Youjun Zhao, Alex Warren et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.09928v1" target="_blank">Multimodal Model Diffing for Feature Discovery and Control</a></h3>
+<p align="center"><b>👥 Authors:</b> Hunar Batra, Lachin Naghashyar et al.</p>
 <!--END_ARXIV-->
 </div>
 
