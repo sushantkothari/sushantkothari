@@ -246,8 +246,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.09928v1" target="_blank">Multimodal Model Diffing for Feature Discovery and Control</a></h3>
-<p align="center"><b>👥 Authors:</b> Hunar Batra, Lachin Naghashyar et al.</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
