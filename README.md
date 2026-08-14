@@ -246,8 +246,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.12307v1" target="_blank">AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses</a></h3>
-<p align="center"><b>👥 Authors:</b> Cheng Qian, Wenting Zhao et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.13554v1" target="_blank">Defensive Boosting for Online Probabilistic Forecasting</a></h3>
+<p align="center"><b>👥 Authors:</b> Georgy Noarov, Aaron Roth</p>
 <!--END_ARXIV-->
 </div>
 
