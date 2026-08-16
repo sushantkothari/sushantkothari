@@ -211,12 +211,7 @@
 
 <br/>
 
-<!-- ████████████████████ STREAK ████████████████████ -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight&date_format=M%20j%2C%20Y" alt="GitHub Streak" onError="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night';" />
-</p>
 
-<br/>
 
 <!-- ████████████████████ WAVE DIVIDER ████████████████████ -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e2030,100:1a1b26&height=30&section=header" width="100%"/>
