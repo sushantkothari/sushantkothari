@@ -1,10 +1,7 @@
 <!-- ████████████████████ ANIMATED HEADER WAVE ████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=120&section=header&animation=fadeIn" />
 
-<!-- ████████████████████ RECRUITER SPOTLIGHT / OPEN TO WORK ████████████████████ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=10B981&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%9F%A2+OPEN+TO+WORK+%E2%80%94+DATA+SCIENCE%2C+AI+%26+ML+ROLES;%F0%9F%9A%80+SEEKING+FULL-TIME+DATA+SCIENTIST+%26+ML+ENGINEER+POSITIONS;%E2%9C%A8+AVAILABLE+FOR+IMMEDIATE+JOINING+%E2%80%94+LETS+CONNECT!" alt="Open to Work Status" />
-</p>
+<!-- ████████████████████ BANNER GIF ████████████████████ -->
 
 <p align="center">
   <a href="https://sushant-kothari.vercel.app/" target="_blank">
