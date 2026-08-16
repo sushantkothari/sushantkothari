@@ -4,14 +4,14 @@
 <!-- ████████████████████ BANNER GIF ████████████████████ -->
 
 <p align="center">
-  <a href="https://sushant-kothari.vercel.app/" target="_blank">
+  <a href="https://sushant-kothari-portfolio.vercel.app/" target="_blank">
     <img width="82%" src="EDITED.gif" alt="Sushant Kothari Banner" />
   </a>
 </p>
 
 <!-- ████████████████████ SOCIAL BADGES ████████████████████ -->
 <div align="center">
-  <a href="https://sushant-kothari.vercel.app/" target="_blank">
+  <a href="https://sushant-kothari-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F7F6?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Website" />
   </a>
   <a href="https://linkedin.com/in/ssk619" target="_blank">
@@ -38,7 +38,7 @@
 <h3>
 
 - **📫 How to reach me:** **sk619kothari@gmail.com**
-- **🌐 Portfolio:** [sushant-kothari.vercel.app](https://sushant-kothari.vercel.app/)
+- **🌐 Portfolio:** [sushant-kothari-portfolio.vercel.app](https://sushant-kothari-portfolio.vercel.app/)
 - **📄 Resume/CV:** [View Here](https://drive.google.com/file/d/1lI8EYSGLt_EWGWw_hL6xQi0HvgRHQIK7/view?usp=sharing)
 - 💼 **Career Status:** **Open to Data Science, Machine Learning & AI Roles**
 - 🎓 **Education:** M.Tech in Data Science (CGPA: 9.16) & B.Tech in CS DS (CGPA: 9.26)
