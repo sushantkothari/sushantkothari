@@ -213,7 +213,7 @@
 
 <!-- ████████████████████ STREAK ████████████████████ -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sushantkothari&theme=tokyonight&date_format=M%20j%2C%20Y" alt="GitHub Streak" onError="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=sushantkothari&theme=tokyo-night';" />
 </p>
 
 <br/>
