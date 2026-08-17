@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.13554v1" target="_blank">Defensive Boosting for Online Probabilistic Forecasting</a></h3>
-<p align="center"><b>👥 Authors:</b> Georgy Noarov, Aaron Roth</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.14539v1" target="_blank">Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils</a></h3>
+<p align="center"><b>👥 Authors:</b> Karel Becerra, Boris Mederos et al.</p>
 <!--END_ARXIV-->
 </div>
 
