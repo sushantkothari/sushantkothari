@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.16888v1" target="_blank">Q-based Variational Inverse Reinforcement Learning</a></h3>
-<p align="center"><b>👥 Authors:</b> Ondrej Bajgar, Peter Tisnikar et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.18066v1" target="_blank">On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification</a></h3>
+<p align="center"><b>👥 Authors:</b> Qinyuan Ye, Yu Li et al.</p>
 <!--END_ARXIV-->
 </div>
 
