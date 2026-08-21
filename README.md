@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.19181v1" target="_blank">Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning</a></h3>
-<p align="center"><b>👥 Authors:</b> Zhu Zhang, Jixun Wang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.20337v1" target="_blank">Information on trajectories: martingales and random times</a></h3>
+<p align="center"><b>👥 Authors:</b> Akshay Balsubramani</p>
 <!--END_ARXIV-->
 </div>
 
