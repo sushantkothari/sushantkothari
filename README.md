@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.20337v1" target="_blank">Information on trajectories: martingales and random times</a></h3>
-<p align="center"><b>👥 Authors:</b> Akshay Balsubramani</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.21359v1" target="_blank">Primal Acceleration of Newton's Method</a></h3>
+<p align="center"><b>👥 Authors:</b> Nikita Doikov</p>
 <!--END_ARXIV-->
 </div>
 
