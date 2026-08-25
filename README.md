@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.21359v1" target="_blank">Primal Acceleration of Newton's Method</a></h3>
-<p align="center"><b>👥 Authors:</b> Nikita Doikov</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.23566v1" target="_blank">How to Train a Critic Stably and Efficiently</a></h3>
+<p align="center"><b>👥 Authors:</b> Penghui Qi, Xiangxin Zhou et al.</p>
 <!--END_ARXIV-->
 </div>
 
