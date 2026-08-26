@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.23566v1" target="_blank">How to Train a Critic Stably and Efficiently</a></h3>
-<p align="center"><b>👥 Authors:</b> Penghui Qi, Xiangxin Zhou et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.24881v1" target="_blank">What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation</a></h3>
+<p align="center"><b>👥 Authors:</b> Hao Chen</p>
 <!--END_ARXIV-->
 </div>
 
