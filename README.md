@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.24881v1" target="_blank">What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation</a></h3>
-<p align="center"><b>👥 Authors:</b> Hao Chen</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.26105v1" target="_blank">VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning</a></h3>
+<p align="center"><b>👥 Authors:</b> Junxiang Xu, Ruisi Wang et al.</p>
 <!--END_ARXIV-->
 </div>
 
