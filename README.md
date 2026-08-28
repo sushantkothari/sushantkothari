@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.26105v1" target="_blank">VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning</a></h3>
-<p align="center"><b>👥 Authors:</b> Junxiang Xu, Ruisi Wang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.27421v1" target="_blank">Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study</a></h3>
+<p align="center"><b>👥 Authors:</b> Kevin Zhu, Ryan Zhang et al.</p>
 <!--END_ARXIV-->
 </div>
 
