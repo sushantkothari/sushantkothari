@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2608.31166v1" target="_blank">Constant Individual Regret in General Games</a></h3>
-<p align="center"><b>👥 Authors:</b> Mingyang Liu, Gabriele Farina et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.01604v1" target="_blank">Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</a></h3>
+<p align="center"><b>👥 Authors:</b> Himil Vasava, Ming Jiang</p>
 <!--END_ARXIV-->
 </div>
 
