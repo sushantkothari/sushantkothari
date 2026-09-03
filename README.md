@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.01604v1" target="_blank">Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation</a></h3>
-<p align="center"><b>👥 Authors:</b> Himil Vasava, Ming Jiang</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.02887v1" target="_blank">A Common Measure of Communication for Speech Brain-Computer Interfaces</a></h3>
+<p align="center"><b>👥 Authors:</b> Dulhan Jayalath, Benjamin Ballyk et al.</p>
 <!--END_ARXIV-->
 </div>
 
