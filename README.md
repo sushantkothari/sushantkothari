@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.02887v1" target="_blank">A Common Measure of Communication for Speech Brain-Computer Interfaces</a></h3>
-<p align="center"><b>👥 Authors:</b> Dulhan Jayalath, Benjamin Ballyk et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.04199v1" target="_blank">Compile by Training: Turning Natural-Language Specifications into Local Neural Functions</a></h3>
+<p align="center"><b>👥 Authors:</b> Yuntian Deng, Pengyu Nie et al.</p>
 <!--END_ARXIV-->
 </div>
 
