@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.04199v1" target="_blank">Compile by Training: Turning Natural-Language Specifications into Local Neural Functions</a></h3>
-<p align="center"><b>👥 Authors:</b> Yuntian Deng, Pengyu Nie et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.05415v1" target="_blank">UniMate: One Unified Model to Animate Diverse Skeletons</a></h3>
+<p align="center"><b>👥 Authors:</b> Linzhan Mou, Jiahui Lei et al.</p>
 <!--END_ARXIV-->
 </div>
 
