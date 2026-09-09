@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.05415v1" target="_blank">UniMate: One Unified Model to Animate Diverse Skeletons</a></h3>
-<p align="center"><b>👥 Authors:</b> Linzhan Mou, Jiahui Lei et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.09157v1" target="_blank">Learning Length-Extrapolatable Recurrent Models</a></h3>
+<p align="center"><b>👥 Authors:</b> Hanwen Jiang</p>
 <!--END_ARXIV-->
 </div>
 
