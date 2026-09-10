@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.09157v1" target="_blank">Learning Length-Extrapolatable Recurrent Models</a></h3>
-<p align="center"><b>👥 Authors:</b> Hanwen Jiang</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.10534v1" target="_blank">Likelihood-free inference with nuisance parameters through normalizing flows</a></h3>
+<p align="center"><b>👥 Authors:</b> Phil Assheton</p>
 <!--END_ARXIV-->
 </div>
 
