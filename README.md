@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.10534v1" target="_blank">Likelihood-free inference with nuisance parameters through normalizing flows</a></h3>
-<p align="center"><b>👥 Authors:</b> Phil Assheton</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.11918v1" target="_blank">General Quantification of Covariate and Concept Shifts</a></h3>
+<p align="center"><b>👥 Authors:</b> Hongbo Chen, Li Charlie Xia</p>
 <!--END_ARXIV-->
 </div>
 
