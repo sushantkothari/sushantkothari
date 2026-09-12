@@ -235,8 +235,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.11918v1" target="_blank">General Quantification of Covariate and Concept Shifts</a></h3>
-<p align="center"><b>👥 Authors:</b> Hongbo Chen, Li Charlie Xia</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
