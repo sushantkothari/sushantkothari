@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.17499v1" target="_blank">ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation</a></h3>
+<p align="center"><b>👥 Authors:</b> Vicky Feliren, A. Taufiq Asyhari et al.</p>
 <!--END_ARXIV-->
 </div>
 
