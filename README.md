@@ -235,8 +235,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.19144v1" target="_blank">A Zeroth-Order Paradigm for LLM Preference Alignment</a></h3>
-<p align="center"><b>👥 Authors:</b> Peter Chen, Xi Chen et al.</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
