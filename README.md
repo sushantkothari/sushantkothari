@@ -235,8 +235,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.22064v1" target="_blank">BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings</a></h3>
-<p align="center"><b>👥 Authors:</b> Alexandre Andre, Shivashriganesh P. Mahato et al.</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
