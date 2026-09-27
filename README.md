@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.30258v1" target="_blank">Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning</a></h3>
+<p align="center"><b>👥 Authors:</b> Sudip Bhujel, Shanghao Shi et al.</p>
 <!--END_ARXIV-->
 </div>
 
