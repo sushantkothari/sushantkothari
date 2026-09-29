@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.31619v1" target="_blank">Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency</a></h3>
-<p align="center"><b>👥 Authors:</b> Parsa Hosseini, Akasha Tigalappanavara et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.35768v1" target="_blank">PDMD: Projected Distribution Matching Distillation for Video Diffusion Models</a></h3>
+<p align="center"><b>👥 Authors:</b> Zimo Wang, Junkun Yuan et al.</p>
 <!--END_ARXIV-->
 </div>
 
