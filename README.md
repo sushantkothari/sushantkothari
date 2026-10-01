@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.38178v1" target="_blank">Skill-Space Shooting for Autonomous Robot Policy Improvement</a></h3>
-<p align="center"><b>👥 Authors:</b> Zihang Rui, Renhao Wang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.40361v1" target="_blank">Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis</a></h3>
+<p align="center"><b>👥 Authors:</b> Tian Xia, Minghao Liu et al.</p>
 <!--END_ARXIV-->
 </div>
 
