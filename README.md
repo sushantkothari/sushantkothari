@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2609.40361v1" target="_blank">Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis</a></h3>
-<p align="center"><b>👥 Authors:</b> Tian Xia, Minghao Liu et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.02207v1" target="_blank">One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars</a></h3>
+<p align="center"><b>👥 Authors:</b> Ramazan Fazylov, Stamatis Lefkimmiatis et al.</p>
 <!--END_ARXIV-->
 </div>
 
