@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.02207v1" target="_blank">One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars</a></h3>
-<p align="center"><b>👥 Authors:</b> Ramazan Fazylov, Stamatis Lefkimmiatis et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.03713v1" target="_blank">What Should World Models Forget? Stratified Retention for Continual Adaptation</a></h3>
+<p align="center"><b>👥 Authors:</b> Nishit Anand, Ramani Duraiswami et al.</p>
 <!--END_ARXIV-->
 </div>
 
