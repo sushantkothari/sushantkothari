@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.06851v1" target="_blank">Base Models Can Reason By Taking a Cue From Training Data</a></h3>
-<p align="center"><b>👥 Authors:</b> Sophie L. Wang, Amil Dravid et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.08789v1" target="_blank">QF3: Fast Flow RL with Filtered Q-Gradients</a></h3>
+<p align="center"><b>👥 Authors:</b> Chung Min Kim, Brent Yi et al.</p>
 <!--END_ARXIV-->
 </div>
 
