@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.10536v1" target="_blank">Decoupling Exploration from Optimization in RLVR</a></h3>
-<p align="center"><b>👥 Authors:</b> Saif Punjwani, Micah Goldblum</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.12467v1" target="_blank">CSF: Contextual Safety Filtering for Motion Generators</a></h3>
+<p align="center"><b>👥 Authors:</b> Lizhi Yang, Yiling Hou et al.</p>
 <!--END_ARXIV-->
 </div>
 
