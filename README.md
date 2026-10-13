@@ -235,8 +235,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.13935v1" target="_blank">Hide and Seek: HIDE Concepts to SEEK explanations for black box models</a></h3>
-<p align="center"><b>👥 Authors:</b> Bhanu Tokas, Rahul Nair et al.</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
