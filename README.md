@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.18871v1" target="_blank">Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion</a></h3>
+<p align="center"><b>👥 Authors:</b> Chih-Hai Su, Tsung-Wei Ke et al.</p>
 <!--END_ARXIV-->
 </div>
 
