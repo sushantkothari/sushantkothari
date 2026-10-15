@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.18871v1" target="_blank">Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion</a></h3>
-<p align="center"><b>👥 Authors:</b> Chih-Hai Su, Tsung-Wei Ke et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.20606v1" target="_blank">Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion</a></h3>
+<p align="center"><b>👥 Authors:</b> Huixuan Cheng, Bike Zhang et al.</p>
 <!--END_ARXIV-->
 </div>
 
