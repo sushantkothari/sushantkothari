@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.20606v1" target="_blank">Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion</a></h3>
-<p align="center"><b>👥 Authors:</b> Huixuan Cheng, Bike Zhang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.22372v1" target="_blank">LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</a></h3>
+<p align="center"><b>👥 Authors:</b> Zhixu Li, Keqian Tang et al.</p>
 <!--END_ARXIV-->
 </div>
 
