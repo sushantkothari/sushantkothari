@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.22372v1" target="_blank">LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</a></h3>
+<p align="center"><b>👥 Authors:</b> Zhixu Li, Keqian Tang et al.</p>
 <!--END_ARXIV-->
 </div>
 
