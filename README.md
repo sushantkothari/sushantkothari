@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.22372v1" target="_blank">LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</a></h3>
-<p align="center"><b>👥 Authors:</b> Zhixu Li, Keqian Tang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.23847v1" target="_blank">Behavioral Couplings: From Formation to Behavioral Emergence in Language Models</a></h3>
+<p align="center"><b>👥 Authors:</b> Dongyoon Hahm, Woogyeol Jin et al.</p>
 <!--END_ARXIV-->
 </div>
 
