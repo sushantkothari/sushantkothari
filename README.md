@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.26863v1" target="_blank">Text-to-Image Generative Modeling Without Language Pretraining</a></h3>
-<p align="center"><b>👥 Authors:</b> Keshigeyan Chandrasegaran, Yue Zhao et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.28632v1" target="_blank">Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs</a></h3>
+<p align="center"><b>👥 Authors:</b> Noam Rotstein, Yoad Tewel et al.</p>
 <!--END_ARXIV-->
 </div>
 
