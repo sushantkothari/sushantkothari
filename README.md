@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.28632v1" target="_blank">Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs</a></h3>
-<p align="center"><b>👥 Authors:</b> Noam Rotstein, Yoad Tewel et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.30132v1" target="_blank">LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data</a></h3>
+<p align="center"><b>👥 Authors:</b> Zhennan Wan, Jianfei Chen</p>
 <!--END_ARXIV-->
 </div>
 
