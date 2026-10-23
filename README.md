@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.30132v1" target="_blank">LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data</a></h3>
-<p align="center"><b>👥 Authors:</b> Zhennan Wan, Jianfei Chen</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.31670v1" target="_blank">Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success</a></h3>
+<p align="center"><b>👥 Authors:</b> Yunfei Xie, Howard H. Qian et al.</p>
 <!--END_ARXIV-->
 </div>
 
