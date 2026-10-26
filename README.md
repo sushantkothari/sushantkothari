@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.31670v1" target="_blank">Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success</a></h3>
-<p align="center"><b>👥 Authors:</b> Yunfei Xie, Howard H. Qian et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.32971v1" target="_blank">RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms</a></h3>
+<p align="center"><b>👥 Authors:</b> Xi Chen, Fengqi Hu et al.</p>
 <!--END_ARXIV-->
 </div>
 
