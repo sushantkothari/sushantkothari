@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.32971v1" target="_blank">RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms</a></h3>
-<p align="center"><b>👥 Authors:</b> Xi Chen, Fengqi Hu et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.35866v1" target="_blank">Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling</a></h3>
+<p align="center"><b>👥 Authors:</b> Xi Chen, Chongjian Ge et al.</p>
 <!--END_ARXIV-->
 </div>
 
