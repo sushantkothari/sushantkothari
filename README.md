@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.35866v1" target="_blank">Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling</a></h3>
-<p align="center"><b>👥 Authors:</b> Xi Chen, Chongjian Ge et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.37668v1" target="_blank">Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction</a></h3>
+<p align="center"><b>👥 Authors:</b> Prakhar Kaushik, Soumava Paul et al.</p>
 <!--END_ARXIV-->
 </div>
 
