@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.40654v1" target="_blank">Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering</a></h3>
-<p align="center"><b>👥 Authors:</b> Moshe Shenfeld, Eliad Tsfadia et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.42149v1" target="_blank">Latent Reasoning in Continuous Space for Unified Multimodal Models</a></h3>
+<p align="center"><b>👥 Authors:</b> Byungwoo Jeon, Yoonwoo Jeong et al.</p>
 <!--END_ARXIV-->
 </div>
 
