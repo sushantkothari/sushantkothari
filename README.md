@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2610.42149v1" target="_blank">Latent Reasoning in Continuous Space for Unified Multimodal Models</a></h3>
-<p align="center"><b>👥 Authors:</b> Byungwoo Jeon, Yoonwoo Jeong et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.03647v1" target="_blank">Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations</a></h3>
+<p align="center"><b>👥 Authors:</b> Jason Jingzhou Liu, Tony Tao et al.</p>
 <!--END_ARXIV-->
 </div>
 
