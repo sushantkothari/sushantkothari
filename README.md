@@ -235,8 +235,7 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.03647v1" target="_blank">Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations</a></h3>
-<p align="center"><b>👥 Authors:</b> Jason Jingzhou Liu, Tony Tao et al.</p>
+<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
 <!--END_ARXIV-->
 </div>
 
