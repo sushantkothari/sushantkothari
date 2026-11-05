@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.06914v1" target="_blank">A Framework for Context Enrichment and Selective Robustness in LLM Social Agents</a></h3>
+<p align="center"><b>👥 Authors:</b> Mattia Greiche, Reihaneh Rabbany et al.</p>
 <!--END_ARXIV-->
 </div>
 
