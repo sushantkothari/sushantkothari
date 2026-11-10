@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.08487v1" target="_blank">User Embeddings are Superpositions of Interpretable Behavioral Modes</a></h3>
-<p align="center"><b>👥 Authors:</b> Jonathan Kozaczuk, Zheng Dong et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.12884v1" target="_blank">Guiding Data Allocation for Robust Subpopulation Generalization</a></h3>
+<p align="center"><b>👥 Authors:</b> Zhaoying Pan, Yipei Wang et al.</p>
 <!--END_ARXIV-->
 </div>
 
