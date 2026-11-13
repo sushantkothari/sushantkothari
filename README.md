@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.14516v1" target="_blank">TorchCurves: Differentiable Parametric Curves</a></h3>
-<p align="center"><b>👥 Authors:</b> Alex Shtoff</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.17334v1" target="_blank">Unbundling Multimodal Vision Encoding</a></h3>
+<p align="center"><b>👥 Authors:</b> Ellis Brown, Chris Hoang et al.</p>
 <!--END_ARXIV-->
 </div>
 
