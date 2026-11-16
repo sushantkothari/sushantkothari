@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.17334v1" target="_blank">Unbundling Multimodal Vision Encoding</a></h3>
-<p align="center"><b>👥 Authors:</b> Ellis Brown, Chris Hoang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.18563v1" target="_blank">Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion</a></h3>
+<p align="center"><b>👥 Authors:</b> Daniel Grimm, Kyra Jongman et al.</p>
 <!--END_ARXIV-->
 </div>
 
