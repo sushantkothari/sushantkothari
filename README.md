@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.18563v1" target="_blank">Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion</a></h3>
-<p align="center"><b>👥 Authors:</b> Daniel Grimm, Kyra Jongman et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.21608v1" target="_blank">Latent Lattice Language Models</a></h3>
+<p align="center"><b>👥 Authors:</b> Shivam Duggal, Zongze Wu et al.</p>
 <!--END_ARXIV-->
 </div>
 
