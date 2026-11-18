@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.21608v1" target="_blank">Latent Lattice Language Models</a></h3>
-<p align="center"><b>👥 Authors:</b> Shivam Duggal, Zongze Wu et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.23229v1" target="_blank">Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching</a></h3>
+<p align="center"><b>👥 Authors:</b> Giannis Daras, Marios Papachristou et al.</p>
 <!--END_ARXIV-->
 </div>
 
