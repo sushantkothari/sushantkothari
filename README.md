@@ -235,7 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<p align="center">📄 <i>Could not fetch today's paper — will retry tomorrow.</i></p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.26627v1" target="_blank">RL Post-Training in Diffusion Transformers Is Activation Steering</a></h3>
+<p align="center"><b>👥 Authors:</b> Tuna Han Salih Meral, Kaan Oktay et al.</p>
 <!--END_ARXIV-->
 </div>
 
