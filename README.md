@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.26627v1" target="_blank">RL Post-Training in Diffusion Transformers Is Activation Steering</a></h3>
-<p align="center"><b>👥 Authors:</b> Tuna Han Salih Meral, Kaan Oktay et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.27983v1" target="_blank">Optimal Linear Regression Without a Variance</a></h3>
+<p align="center"><b>👥 Authors:</b> Artin Tajdini, Jasper C. H. Lee et al.</p>
 <!--END_ARXIV-->
 </div>
 
