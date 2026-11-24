@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.27983v1" target="_blank">Optimal Linear Regression Without a Variance</a></h3>
-<p align="center"><b>👥 Authors:</b> Artin Tajdini, Jasper C. H. Lee et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.31240v1" target="_blank">Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action</a></h3>
+<p align="center"><b>👥 Authors:</b> Seongchan Kim, Soowon Son et al.</p>
 <!--END_ARXIV-->
 </div>
 
