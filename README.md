@@ -235,8 +235,8 @@
 
 <div align="center">
 <!--START_ARXIV-->
-<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.33158v1" target="_blank">OmniAct: One Policy, One Million Embodiments</a></h3>
-<p align="center"><b>👥 Authors:</b> Xiang Fan, Yuheng Wang et al.</p>
+<h3 align="center">📄 <a href="https://arxiv.org/abs/2611.34938v1" target="_blank">Tokenisation is not in APX</a></h3>
+<p align="center"><b>👥 Authors:</b> Violeta Kastreva, Philip Whittington et al.</p>
 <!--END_ARXIV-->
 </div>
 
